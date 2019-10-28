@@ -237,7 +237,7 @@ nav {
 }
 
 .wrapper_reasons {
-  padding: 71px 0 65px 0;
+  padding: 71px 0 15px 0;
   min-height: 900px;
 }
 
@@ -266,7 +266,7 @@ nav {
 
 .wrapper_reasons .reason_item .reason_descr {
   width: 341px;
-  min-height: 242px;
+  height: 242px;
   margin-top: 20px;
   padding-left: 30px;
   color: #202020;
@@ -693,9 +693,6 @@ footer a:hover {
   }
   .wrapper_reasons .reason_item .reason_descr {
     width: 300px;
-  }
-  .wrapper_reasons .reason_item .reason_descr:last-child {
-    min-height: 100px;
   }
   .mobile_item {
     width: 300px;
